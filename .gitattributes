@@ -1,3 +1,6 @@
 best.pt filter=lfs diff=lfs merge=lfs -text
 ViT-B-32.pt filter=lfs diff=lfs merge=lfs -text
 best_v1.pt filter=lfs diff=lfs merge=lfs -text
+best_s.pt filter=lfs diff=lfs merge=lfs -text
+best_m.pt filter=lfs diff=lfs merge=lfs -text
+best_v2.pt filter=lfs diff=lfs merge=lfs -text
