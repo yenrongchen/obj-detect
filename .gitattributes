@@ -6,3 +6,4 @@ best_m_one_class_v2.pt filter=lfs diff=lfs merge=lfs -text
 best_m_one_class_v1.pt filter=lfs diff=lfs merge=lfs -text
 model-00001-of-00002.safetensors filter=lfs diff=lfs merge=lfs -text
 model-00002-of-00002.safetensors filter=lfs diff=lfs merge=lfs -text
+sam2.1_hiera_base_plus.pt filter=lfs diff=lfs merge=lfs -text
